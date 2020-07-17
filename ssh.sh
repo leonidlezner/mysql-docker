@@ -1,0 +1,1 @@
+docker exec -it dev_mysql bash
